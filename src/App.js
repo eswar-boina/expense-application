@@ -10,21 +10,21 @@ const DUMMY_EXPENSES = [
     id: 'e1',
     title: 'House',
     amount: 94.12,
-    date: new Date(2022, 11, 14),
+    date: new Date(),
   },
-  { id: 'e2', title: 'Lenovo TV', amount: 799.49, date: new Date(2022, 11, 12) },
+  { id: 'e2', title: 'Lenovo TV', amount: 799.49, date: new Date() },
   {
     id: 'e3',
     title: 'Bike Insurance',
     amount: 294.67,
-    date: new Date(2022, 11, 28),
+    date: new Date(),
   },
 
   {
     id: 'e4',
     title: 'Electrical Bill',
     amount: 450,
-    date: new Date(2022, 11, 12),
+    date: new Date(),
   },
 ];
 
